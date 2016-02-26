@@ -63,3 +63,17 @@ I have collected a list of quality iOS blogs, newsletters, courses etc to furthe
 * [apple.co/1BA3RDf](http://apple.co/1BA3RDf) (Stanford iOS8/Swift)
 * [bit.ly/1YOWdnD](http://bit.ly/1YOWdnD) (Treehouse)
 * [bit.ly/1lXwCcD](http://bit.ly/1lXwCcD) (Ray Wenderlich Video Courses ObjC & Swift)
+
+##Videos:
+Most of this video list comes from [Stefan SUT on LinkedIn](https://www.linkedin.com/pulse/continuous-ios-learning-part-2-stefan-sut)
+* [vimeo.com/nsconf](https://vimeo.com/nsconf)
+* [pomo.tv](http://www.pomo.tv)
+* [youtube.com/user/GotoConferences](https://www.youtube.com/user/GotoConferences)
+* [youtube.com/user/UIKonf](https://www.youtube.com/user/UIKonf)
+* [realm.io/news/swift-summit/](https://realm.io/news/swift-summit/)
+* [MobileCentralEurope on youtube](https://www.youtube.com/channel/UCVmsyhkifdHTomiVlA11FgQ)
+* [youtube.com/user/pragmamark](https://www.youtube.com/user/pragmamark)
+* [realm.io/altconf/](https://realm.io/altconf/)
+* [vimeo.com/cocoaconf/videos](https://vimeo.com/cocoaconf/videos)
+* [vimeo.com/360conferences/videos](https://vimeo.com/360conferences/videos)
+* [dot conferences on youtube](https://www.youtube.com/channel/UCSRhwaM00ay0fasnsw6EXKA)
