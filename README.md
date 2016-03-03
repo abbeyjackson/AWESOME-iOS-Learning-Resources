@@ -101,13 +101,16 @@ Most of this video list comes from [Stefan SUT on LinkedIn](https://www.linkedin
 * [dot conferences on youtube](https://www.youtube.com/channel/UCSRhwaM00ay0fasnsw6EXKA)
 
 ##Random:
-Things you might want to know
+Things you might want to know and which will help your learning
 * [developer.apple.com/resources](https://developer.apple.com/resources)
 * [sanketfirodiya/ios-marketing-resources](https://github.com/sanketfirodiya/ios-marketing-resources)
 * [inessential.com/hownottocrash](http://inessential.com/hownottocrash)
 * [metova.com/blog/dev/guide-xcode-ui-test](https://metova.com/blog/dev/guide-xcode-ui-test) I wrote this!
 * [metova.com/blog/dev/concurrency-in-ios/](https://metova.com/blog/dev/concurrency-in-ios)
 * [github.com/abbeyjackson/GitCheatsheet](https://github.com/abbeyjackson/GitCheatsheet) I wrote this!
+* [maniacdev.com/xcode-plugins](https://maniacdev.com/xcode-plugins)
+* [XCode ShortcutKeys](https://developer.apple.com/library/ios/documentation/IDEs/Conceptual/xcode_help-command_shortcuts/MenuCommands/MenuCommands014.html)
+* [git-tower.com/blog/xcode-cheat-sheet](https://www.git-tower.com/blog/xcode-cheat-sheet)
  
 ##Templates:
 Templates I have made to make my life easier while I was learning confusing topics or new frameworks
