@@ -107,3 +107,11 @@ Things you might want to know
 * [inessential.com/hownottocrash](http://inessential.com/hownottocrash)
 * [metova.com/blog/dev/guide-xcode-ui-test](https://metova.com/blog/dev/guide-xcode-ui-test) I wrote this!
 * [metova.com/blog/dev/concurrency-in-ios/](https://metova.com/blog/dev/concurrency-in-ios)
+* [github.com/abbeyjackson/GitCheatsheet](https://github.com/abbeyjackson/GitCheatsheet) I wrote this!
+ 
+##Templates:
+Templates I have made to make my life easier while I was learning confusing topics or new frameworks
+* [Centered Scroll View](https://github.com/abbeyjackson/CenteredScrollViewTemplate)
+* [Announcement Slider with dots](https://github.com/abbeyjackson/AnnouncementSlider-CodeExample)
+* [ORKResearchKit - Research Kit](https://github.com/abbeyjackson/AnxietyResearch)
+* [Stretching Header](https://github.com/abbeyjackson/StretchyHeader)
