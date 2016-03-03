@@ -65,7 +65,7 @@ Several blogs are tutorial based but because they do not have good organization 
 * [developer.apple.com/videos](https://developer.apple.com/videos)
 * [developer.apple.com/swift/resources](https://developer.apple.com/swift/resources)
 * [asciiwwdc.com](http://asciiwwdc.com) Searchable full-text transcripts of WWDC sessions
-* [tutorialspoint.com/ios)[http://www.tutorialspoint.com/ios]
+* [tutorialspoint.com/ios](http://www.tutorialspoint.com/ios)
 * [tutorialspoint.com/objective_c](http://www.tutorialspoint.com/objective_c)
 * [tutorialspoint.com/swift](http://www.tutorialspoint.com/swift)
 * [appcoda.com](http://appcoda.com)
