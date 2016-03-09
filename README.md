@@ -35,10 +35,14 @@ Several blogs are tutorial based but because they do not have good organization 
 * [realm.io/news/#apple](https://realm.io/news/#apple)
 
 ##Podcasts:
+* [tii.libsyn.com](http://tii.libsyn.com) (News Podcast: "Today in iOS")
 * [raywenderlich.com/rwpodcast](http://raywenderlich.com/rwpodcast)
 * [appleinsider.com/topic/podcast](http://appleinsider.com/topic/podcast)
 * [atp.fm](http://atp.fm)
 * [iosbytes.codeschool.com/episodes](https://iosbytes.codeschool.com/episodes)
+* [5by5.tv/iohyes](http://5by5.tv/iohyes)
+* [coreint.org](http://www.coreint.org/)
+* [devchat.tv/iphreaks](https://devchat.tv/iphreaks)
 
 ##Weeklies:
 * [iosdevweekly.com](http://iosdevweekly.com)
@@ -52,6 +56,7 @@ Several blogs are tutorial based but because they do not have good organization 
 * [appleinsider.com](http://appleinsider.com)
 * [apple.com/ca/hotnews](http://apple.com/ca/hotnews) & [apple.com/hotnews](http://apple.com/hotnews)
 * [iosbytes.codeschool.com](https://iosbytes.codeschool.com)
+* [tii.libsyn.com](http://tii.libsyn.com) (News Podcast: "Today in iOS")
 
 ##Communities:
 * [reddit.com/r/swift](http://reddit.com/r/swift)
