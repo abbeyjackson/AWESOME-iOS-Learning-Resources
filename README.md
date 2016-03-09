@@ -38,6 +38,7 @@ Several blogs are tutorial based but because they do not have good organization 
 * [raywenderlich.com/rwpodcast](http://raywenderlich.com/rwpodcast)
 * [appleinsider.com/topic/podcast](http://appleinsider.com/topic/podcast)
 * [atp.fm](http://atp.fm)
+* [iosbytes.codeschool.com/episodes](https://iosbytes.codeschool.com/episodes)
 
 ##Weeklies:
 * [iosdevweekly.com](http://iosdevweekly.com)
@@ -50,6 +51,7 @@ Several blogs are tutorial based but because they do not have good organization 
 * [techradar.com/us/news/mobile-computing](http://techradar.com/us/news/mobile-computing)
 * [appleinsider.com](http://appleinsider.com)
 * [apple.com/ca/hotnews](http://apple.com/ca/hotnews) & [apple.com/hotnews](http://apple.com/hotnews)
+* [iosbytes.codeschool.com](https://iosbytes.codeschool.com)
 
 ##Communities:
 * [reddit.com/r/swift](http://reddit.com/r/swift)
