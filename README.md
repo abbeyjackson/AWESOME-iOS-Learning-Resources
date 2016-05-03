@@ -93,7 +93,8 @@ Several blogs are tutorial based but because they do not have good organization 
 * [itunes.com/PlymouthSwift](https://itunes.com/PlymouthSwift) (Plymouth University Swift)
 * [bit.ly/1YOWdnD](http://bit.ly/1YOWdnD) (Treehouse)
 * [bit.ly/1lXwCcD](http://bit.ly/1lXwCcD) (Ray Wenderlich Video Courses ObjC & Swift)
-* [http://bit.ly/1QmOtEE](http://bit.ly/1QmOtEE) (A Better Way to Learn Swift, from Thinkster)
+* [bit.ly/1QmOtEE](http://bit.ly/1QmOtEE) (A Better Way to Learn Swift, from Thinkster)
+* [bit.ly/1X6YmLh](bit.ly/1X6YmLh) (Code Path's "Understanding Swift")
 
 ##Videos:
 Most of this video list comes from [Stefan SUT on LinkedIn](https://www.linkedin.com/pulse/continuous-ios-learning-part-2-stefan-sut)
