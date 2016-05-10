@@ -35,6 +35,7 @@ Several blogs are tutorial based but because they do not have good organization 
 * [realm.io/news/#apple](https://realm.io/news/#apple)
 * [rx-marin.com](http://rx-marin.com)
 * [rajkandathi.com](http://rajkandathi.com)
+* [appventure.me](http://appventure.me)
 
 ##Podcasts:
 * [tii.libsyn.com](http://tii.libsyn.com) (News Podcast: "Today in iOS")
