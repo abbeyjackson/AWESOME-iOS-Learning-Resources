@@ -88,14 +88,15 @@ Several blogs are tutorial based but because they do not have good organization 
 * [cocoadevcentral.com](http://cocoadevcentral.com)
 
 ##Courses:
-* [bit.ly/1KI3PyM](http://bit.ly/1KI3PyM) (Coursera ObjC)
-* [apple.co/1gVVEGv](http://apple.co/1gVVEGv) (Stanford iOS7/ObjC)
-* [apple.co/1BA3RDf](http://apple.co/1BA3RDf) (Stanford iOS8/Swift)
-* [itunes.com/PlymouthSwift](https://itunes.com/PlymouthSwift) (Plymouth University Swift)
-* [bit.ly/1YOWdnD](http://bit.ly/1YOWdnD) (Treehouse)
-* [bit.ly/1lXwCcD](http://bit.ly/1lXwCcD) (Ray Wenderlich Video Courses ObjC & Swift)
-* [bit.ly/1QmOtEE](http://bit.ly/1QmOtEE) (A Better Way to Learn Swift, from Thinkster)
-* [bit.ly/1X6YmLh](bit.ly/1X6YmLh) (Code Path's "Understanding Swift")
+* [bit.ly/1KI3PyM](http://bit.ly/1KI3PyM) Coursera ObjC
+* [apple.co/1gVVEGv](http://apple.co/1gVVEGv) Stanford iOS7/ObjC
+* [apple.co/1BA3RDf](http://apple.co/1BA3RDf) Stanford iOS8/Swift
+* [itunes.com/PlymouthSwift](https://itunes.com/PlymouthSwift) Plymouth University Swift
+* [bit.ly/1YOWdnD](http://bit.ly/1YOWdnD) Treehouse
+* [bit.ly/1lXwCcD](http://bit.ly/1lXwCcD) Ray Wenderlich Video Courses ObjC & Swift
+* [bit.ly/1QmOtEE](http://bit.ly/1QmOtEE) A Better Way to Learn Swift, from Thinkster
+* [bit.ly/1X6YmLh](bit.ly/1X6YmLh) Code Path's "Understanding Swift"
+* [bit.ly/22gaZUN](bit.ly/22gaZUN) Swift Algorithms and Data Structures 
 
 ##Videos:
 Most of this video list comes from [Stefan SUT on LinkedIn](https://www.linkedin.com/pulse/continuous-ios-learning-part-2-stefan-sut)
@@ -120,7 +121,7 @@ Things you might want to know and which will help your learning
 * [metova.com/blog/dev/concurrency-in-ios/](https://metova.com/blog/dev/concurrency-in-ios)
 * [github.com/abbeyjackson/GitCheatsheet](https://github.com/abbeyjackson/GitCheatsheet) I wrote this!
 * [maniacdev.com/xcode-plugins](https://maniacdev.com/xcode-plugins)
-* [XCode ShortcutKeys](https://developer.apple.com/library/ios/documentation/IDEs/Conceptual/xcode_help-command_shortcuts/MenuCommands/MenuCommands014.html)
+* [XCode ShortcutKeys](apple.co/22gaUjW)
 * [git-tower.com/blog/xcode-cheat-sheet](https://www.git-tower.com/blog/xcode-cheat-sheet)
  
 ##Templates:
