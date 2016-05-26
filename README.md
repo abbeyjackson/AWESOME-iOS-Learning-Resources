@@ -94,6 +94,7 @@ Several blogs are tutorial based but because they do not have good organization 
 * [bit.ly/1KI3PyM](http://bit.ly/1KI3PyM) Coursera ObjC
 * [apple.co/1gVVEGv](http://apple.co/1gVVEGv) Stanford iOS7/ObjC
 * [apple.co/1BA3RDf](http://apple.co/1BA3RDf) Stanford iOS8/Swift
+* [apple.co/1OPXnYK](http://apple.co/1OPXnYK) Stanford iOS9/Swift
 * [itunes.com/PlymouthSwift](https://itunes.com/PlymouthSwift) Plymouth University Swift
 * [bit.ly/1YOWdnD](http://bit.ly/1YOWdnD) Treehouse
 * [bit.ly/1lXwCcD](http://bit.ly/1lXwCcD) Ray Wenderlich Video Courses ObjC & Swift
