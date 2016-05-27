@@ -1,7 +1,7 @@
 # iOS-Learning-Resources
 Big list of high-quality iOS learning resources including courses, blogs, newsletters, podcasts, and devloper communities
 
-I have collected a list of quality iOS blogs, newsletters, courses etc to further your knowledge and stay on top of news. This is not a huge list of every resource out there by any means, but I think these are the best and more importantly I have tried to only include active sites. Most are free with the exception of a few course websites which are well worth the inexpensive monthly cost. Please let me know of others! twitter.com/earthabbey
+I have collected a list of quality iOS blogs, newsletters, courses etc to further your knowledge and stay on top of news. This is not a huge list of every resource out there by any means, but I think these are the best and more importantly I have tried to only include active sites. Most are free with the exception of a few course websites which are well worth the inexpensive monthly cost. Please let me know of others! twitter.com/earthabbey -- abbey @ abbeyjackson .ca
 
 Before diving into iOS specific stuff, here are a list of resources to help people who are 100% new to programming get a feel for terminology and the way programming actually works:
 * [tutorialspoint.com/developers_best_practices](http://www.tutorialspoint.com/developers_best_practices)
@@ -55,6 +55,7 @@ Several blogs are tutorial based but because they do not have good organization 
 * [ios-goodies.com](http://ios-goodies.com)
 * [ioscomponentsweekly.com](http://ioscomponentsweekly.com)
 * [iosweekly.curated.co](http://iosweekly.curated.co)
+* [indieiosfocus.curated.co](https://indieiosfocus.curated.co)
 
 ##News:
 * [venturebeat.com/tag/ios](http://venturebeat.com/tag/ios)
