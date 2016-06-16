@@ -101,9 +101,19 @@ Several blogs are tutorial based but because they do not have good organization 
 * [bit.ly/1lXwCcD](http://bit.ly/1lXwCcD) Ray Wenderlich Video Courses ObjC & Swift
 * [bit.ly/1QmOtEE](http://bit.ly/1QmOtEE) A Better Way to Learn Swift, from Thinkster
 * [bit.ly/1X6YmLh](bit.ly/1X6YmLh) Code Path's "Understanding Swift"
+#####Algorithms
 * [bit.ly/22gaZUN](bit.ly/22gaZUN) Swift Algorithms and Data Structures 
+* [bit.ly/1rsNUAW](bit.ly/1rsNUAW) Ray Wenderlich Swift Algorithm Club
+* [bit.ly/1rsNYka](bit.ly/1rsNYka) Algorithm Courses on Coursera (Not iOS specific)
+#####Swift Backend
+* [bit.ly/23vZDuU](bit.ly/23vZDuU) Building RESTful JSON apps in Swift
 
 ##Videos:
+#####Apple's WWDC
+* [apple.co/1Yv4Xj7](apple.co/1Yv4Xj7) 2016: iOS 10, XCode 8, Swift 3
+* [apple.co/1Yv4ZHL](apple.co/1Yv4ZHL) 2015: iOS 9, XCode 7, Swift 2
+* [apple.co/1Yv5a64](apple.co/1Yv5a64) 2014: iOS 8, XCode 6, Swift 1
+#####Other
 Most of this video list comes from [Stefan SUT on LinkedIn](https://www.linkedin.com/pulse/continuous-ios-learning-part-2-stefan-sut)
 * [vimeo.com/nsconf](https://vimeo.com/nsconf)
 * [pomo.tv](http://www.pomo.tv)
