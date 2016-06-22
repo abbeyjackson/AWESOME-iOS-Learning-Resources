@@ -6,7 +6,7 @@ I have collected a list of quality iOS blogs, newsletters, courses etc to furthe
 Before diving into iOS specific stuff, here are a list of resources to help people who are 100% new to programming get a feel for terminology and the way programming actually works:
 * [tutorialspoint.com/developers_best_practices](http://www.tutorialspoint.com/developers_best_practices)
 * [tutorialspoint.com/computer_glossary.htm](http://www.tutorialspoint.com/computer_glossary.htm)
-* [learn.saylor.org/course/view.php?id=66](https://learn.saylor.org/course/view.php?id=66)
+* [learn.saylor.org/course/view.php?id=66](https://learn.saylor.org/course/view.php?id=66) (Elementary Data Structures -- this will help you greatly if you have no prior programming experience)
 
 ##Blogs:
 Several blogs are tutorial based but because they do not have good organization of tutorial topics I have included them here rather than the "Course-like" section where the organized tutorial sites are.
