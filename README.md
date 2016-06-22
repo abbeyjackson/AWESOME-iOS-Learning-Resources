@@ -15,7 +15,7 @@ Several blogs are tutorial based but because they do not have good organization 
 * [garglingwithrazorblades.com](http://garglingwithrazorblades.com)
 * [cimgf.com](http://cimgf.com)
 * [littlebitesofcocoa.com](http://littlebitesofcocoa.com)
-* [developer.apple.com/swift/blog](http://eveloper.apple.com/swift/blog)
+* [developer.apple.com/swift/blog](http://developer.apple.com/swift/blog)
 * [natashatherobot.com](http://natashatherobot.com)
 * [mikeash.com/pyblog](http://mikeash.com/pyblog)
 * [iosunittesting.com](http://iosunittesting.com)
