@@ -144,7 +144,7 @@ Things you might want to know and which will help your learning
 * [XCode ShortcutKeys](http://apple.co/22gaUjW)
 * [git-tower.com/blog/xcode-cheat-sheet](https://www.git-tower.com/blog/xcode-cheat-sheet)
  
-##Templates:
+# Templates:
 Templates I have made to make my life easier while I was learning confusing topics or new frameworks
 * [Centered Scroll View](https://github.com/abbeyjackson/CenteredScrollViewTemplate)
 * [Announcement Slider with dots](https://github.com/abbeyjackson/AnnouncementSlider-CodeExample)
