@@ -57,6 +57,7 @@ Several blogs are tutorial based but because they do not have good organization 
 * [ioscomponentsweekly.com](http://ioscomponentsweekly.com)
 * [iosweekly.curated.co](http://iosweekly.curated.co)
 * [indieiosfocus.curated.co](https://indieiosfocus.curated.co)
+* [weeklycocoa.news](https://weeklycocoa.news)
 
 ##News:
 * [venturebeat.com/tag/ios](http://venturebeat.com/tag/ios)
