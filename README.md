@@ -8,7 +8,7 @@ Before diving into iOS specific stuff, here are a list of resources to help peop
 * [tutorialspoint.com/computer_glossary.htm](http://www.tutorialspoint.com/computer_glossary.htm)
 * [learn.saylor.org/course/view.php?id=66](https://learn.saylor.org/course/view.php?id=66) (Elementary Data Structures -- this will help you greatly if you have no prior programming experience)
 
-# Blogs:
+### Blogs:
 Several blogs are tutorial based but because they do not have good organization of tutorial topics I have included them here rather than the "Course-like" section where the organized tutorial sites are.
 * [news.ios-developers.io](http://news.ios-developers.io)
 * [nshipster.com](http://nshipster.com)
@@ -39,7 +39,7 @@ Several blogs are tutorial based but because they do not have good organization 
 * [appventure.me](http://appventure.me)
 * [iosinsight.com](http://iosinsight.com)
 
-# Podcasts:
+### Podcasts:
 * [tii.libsyn.com](http://tii.libsyn.com) (News Podcast: "Today in iOS")
 * [raywenderlich.com/rwpodcast](http://raywenderlich.com/rwpodcast)
 * [appleinsider.com/topic/podcast](http://appleinsider.com/topic/podcast)
@@ -51,14 +51,14 @@ Several blogs are tutorial based but because they do not have good organization 
 * [releasenotes.tv](https://releasenotes.tv) (Independent app development)
 * [relay.fm/radar](https://www.relay.fm/radar) (Independent app development)
 
-# Weeklies:
+### Weeklies:
 * [iosdevweekly.com](http://iosdevweekly.com)
 * [ios-goodies.com](http://ios-goodies.com)
 * [ioscomponentsweekly.com](http://ioscomponentsweekly.com)
 * [iosweekly.curated.co](http://iosweekly.curated.co)
 * [indieiosfocus.curated.co](https://indieiosfocus.curated.co)
 
-# News:
+### News:
 * [venturebeat.com/tag/ios](http://venturebeat.com/tag/ios)
 * [techradar.com/us/news/mobile-computing](http://techradar.com/us/news/mobile-computing)
 * [appleinsider.com](http://appleinsider.com)
@@ -66,7 +66,7 @@ Several blogs are tutorial based but because they do not have good organization 
 * [iosbytes.codeschool.com](https://iosbytes.codeschool.com)
 * [tii.libsyn.com](http://tii.libsyn.com) (News Podcast: "Today in iOS")
 
-# Communities:
+### Communities:
 * [reddit.com/r/swift](http://reddit.com/r/swift)
 * [reddit.com/r/ios](http://reddit.com/r/ios)
 * [facebook.com/groups/swiftiosdev](http://facebook.com/groups/swiftiosdev)
@@ -76,7 +76,7 @@ Several blogs are tutorial based but because they do not have good organization 
 * [bit.ly/1Ved4B3](http://bit.ly/1Ved4B3) (G+ Community 3.5K members)
 * [bit.ly/1LbXz81](http://bit.ly/1LbXz81) (LinkedIn Group) 
 
-# Course-like (lots of tutorials in an organized format):
+### Course-like (lots of tutorials in an organized format):
 * [developer.apple.com/videos](https://developer.apple.com/videos)
 * [developer.apple.com/swift/resources](https://developer.apple.com/swift/resources)
 * [asciiwwdc.com](http://asciiwwdc.com) Searchable full-text transcripts of WWDC sessions
@@ -92,7 +92,7 @@ Several blogs are tutorial based but because they do not have good organization 
 * [objc.io](http://tutsplus.com)
 * [cocoadevcentral.com](http://cocoadevcentral.com)
 
-# Courses:
+### Courses:
 * [bit.ly/1KI3PyM](http://bit.ly/1KI3PyM) Coursera ObjC
 * [apple.co/1gVVEGv](http://apple.co/1gVVEGv) Stanford iOS7/ObjC
 * [apple.co/1BA3RDf](http://apple.co/1BA3RDf) Stanford iOS8/Swift
@@ -103,22 +103,22 @@ Several blogs are tutorial based but because they do not have good organization 
 * [bit.ly/1QmOtEE](http://bit.ly/1QmOtEE) A Better Way to Learn Swift, from Thinkster
 * [bit.ly/1X6YmLh](http://bit.ly/1X6YmLh) Code Path's "Understanding Swift"
 
-# Algorithms
+### Algorithms
 * [bit.ly/22gaZUN](http://bit.ly/22gaZUN) Swift Algorithms and Data Structures 
 * [bit.ly/1rsNUAW](http://bit.ly/1rsNUAW) Ray Wenderlich Swift Algorithm Club
 * [bit.ly/1rsNYka](http://bit.ly/1rsNYka) Algorithm Courses on Coursera (Not iOS specific)
 
-# Swift Backend
+### Swift Backend
 * [bit.ly/23vZDuU](http://bit.ly/23vZDuU) Building RESTful JSON apps in Swift
 
-# Videos:
+## Videos:
 
-# Apple's WWDC
+### Apple's WWDC
 * [apple.co/1Yv4Xj7](http://apple.co/1Yv4Xj7) 2016: iOS 10, XCode 8, Swift 3
 * [apple.co/1Yv4ZHL](http://apple.co/1Yv4ZHL) 2015: iOS 9, XCode 7, Swift 2
 * [apple.co/1Yv5a64](http://apple.co/1Yv5a64) 2014: iOS 8, XCode 6, Swift 1
 
-# Other
+### Other:
 Most of this video list comes from [Stefan SUT on LinkedIn](https://www.linkedin.com/pulse/continuous-ios-learning-part-2-stefan-sut)
 * [vimeo.com/nsconf](https://vimeo.com/nsconf)
 * [pomo.tv](http://www.pomo.tv)
@@ -132,7 +132,7 @@ Most of this video list comes from [Stefan SUT on LinkedIn](https://www.linkedin
 * [vimeo.com/360conferences/videos](https://vimeo.com/360conferences/videos)
 * [dot conferences on youtube](https://www.youtube.com/channel/UCSRhwaM00ay0fasnsw6EXKA)
 
-# Random:
+### Random:
 Things you might want to know and which will help your learning
 * [developer.apple.com/resources](https://developer.apple.com/resources)
 * [sanketfirodiya/ios-marketing-resources](https://github.com/sanketfirodiya/ios-marketing-resources)
@@ -144,7 +144,7 @@ Things you might want to know and which will help your learning
 * [XCode ShortcutKeys](http://apple.co/22gaUjW)
 * [git-tower.com/blog/xcode-cheat-sheet](https://www.git-tower.com/blog/xcode-cheat-sheet)
  
-# Templates:
+### Templates:
 Templates I have made to make my life easier while I was learning confusing topics or new frameworks
 * [Centered Scroll View](https://github.com/abbeyjackson/CenteredScrollViewTemplate)
 * [Announcement Slider with dots](https://github.com/abbeyjackson/AnnouncementSlider-CodeExample)
