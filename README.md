@@ -1,7 +1,5 @@
-### Please Note:
-### I no longer have time to maintain this. If anyone wants to be added as a contributor so they can keep it up please reach out to me somehow or create an issue. The requirements are that these should not be blogs that just regurgitate what everyone else does. The resources added should be contributing unique thoughts and be written in a clear and concise manner.
------------
------------
+#### Please Note:
+#### I no longer have time to maintain this. If anyone wants to be added as a contributor so they can keep it up please reach out to me somehow or create an issue. The requirements are that these should not be blogs that just regurgitate what everyone else does. The resources added should be contributing unique thoughts and be written in a clear and concise manner. Also except in exceptional circumstances the resource should be free or have a majority of the useful content be free.
 -----------
 
 
