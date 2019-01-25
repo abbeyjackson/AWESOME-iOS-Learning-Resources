@@ -55,6 +55,12 @@ Several blogs are tutorial based but because they do not have good organization 
 * [devchat.tv/iphreaks](https://devchat.tv/iphreaks)
 * [releasenotes.tv](https://releasenotes.tv) (Independent app development)
 * [relay.fm/radar](https://www.relay.fm/radar) (Independent app development)
+* [Swift Unwrapped](https://spec.fm/podcasts/swift-unwrapped)
+* [Swift Over Coffee](https://anchor.fm/swiftovercoffee)
+* [Swift by Sundell](https://www.swiftbysundell.com/podcast) Answering Your Swift Questions
+* [iOS Dev Break](http://iosdevbreak.com)
+* [Inside iOS Dev](http://insideiosdev.com)
+* [The Swift Community Podcast](https://www.swiftcommunitypodcast.org) A podcast by the Swift community for the Swift community
 
 ## Weeklies:
 * [iosdevweekly.com](http://iosdevweekly.com)
@@ -80,7 +86,7 @@ Several blogs are tutorial based but because they do not have good organization 
 * [ios-developers.io](http://ios-developers.io)
 * [bit.ly/1LSHi2f](http://bit.ly/1LSHi2f) (G+ Community, 15K members)
 * [bit.ly/1Ved4B3](http://bit.ly/1Ved4B3) (G+ Community 3.5K members)
-* [bit.ly/1LbXz81](http://bit.ly/1LbXz81) (LinkedIn Group) 
+* [bit.ly/1LbXz81](http://bit.ly/1LbXz81) (LinkedIn Group)
 
 ## Course-like (lots of tutorials in an organized format):
 * [developer.apple.com/videos](https://developer.apple.com/videos)
@@ -110,7 +116,7 @@ Several blogs are tutorial based but because they do not have good organization 
 * [bit.ly/1X6YmLh](http://bit.ly/1X6YmLh) Code Path's "Understanding Swift"
 
 ##### Algorithms
-* [bit.ly/22gaZUN](http://bit.ly/22gaZUN) Swift Algorithms and Data Structures 
+* [bit.ly/22gaZUN](http://bit.ly/22gaZUN) Swift Algorithms and Data Structures
 * [bit.ly/1rsNUAW](http://bit.ly/1rsNUAW) Ray Wenderlich Swift Algorithm Club
 * [bit.ly/1rsNYka](http://bit.ly/1rsNYka) Algorithm Courses on Coursera (Not iOS specific)
 
@@ -149,7 +155,7 @@ Things you might want to know and which will help your learning
 * [maniacdev.com/xcode-plugins](https://maniacdev.com/xcode-plugins)
 * [XCode ShortcutKeys](http://apple.co/22gaUjW)
 * [git-tower.com/blog/xcode-cheat-sheet](https://www.git-tower.com/blog/xcode-cheat-sheet)
- 
+
 ## Templates:
 Templates I have made to make my life easier while I was learning confusing topics or new frameworks
 * [Centered Scroll View](https://github.com/abbeyjackson/CenteredScrollViewTemplate)
