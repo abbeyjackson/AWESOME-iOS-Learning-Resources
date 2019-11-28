@@ -2,7 +2,6 @@
 #### I no longer have time to maintain this. If anyone wants to be added as a contributor so they can keep it up please reach out to me somehow or create an issue. The requirements are that these should not be blogs that just regurgitate what everyone else does. The resources added should be contributing unique thoughts and be written in a clear and concise manner. Also except in exceptional circumstances the resource should be free or have a majority of the useful content be free.
 -----------
 
-
 # iOS-Learning-Resources
 Big list of high-quality iOS learning resources including courses, blogs, newsletters, podcasts, and devloper communities
 
@@ -115,22 +114,23 @@ Several blogs are tutorial based but because they do not have good organization 
 * [bit.ly/1QmOtEE](http://bit.ly/1QmOtEE) A Better Way to Learn Swift, from Thinkster
 * [bit.ly/1X6YmLh](http://bit.ly/1X6YmLh) Code Path's "Understanding Swift"
 
-##### Algorithms
-* [bit.ly/22gaZUN](http://bit.ly/22gaZUN) Swift Algorithms and Data Structures
+### Algorithms
+* [bit.ly/22gaZUN](http://bit.ly/22gaZUN) Swift Algorithms and Data Structures 
 * [bit.ly/1rsNUAW](http://bit.ly/1rsNUAW) Ray Wenderlich Swift Algorithm Club
 * [bit.ly/1rsNYka](http://bit.ly/1rsNYka) Algorithm Courses on Coursera (Not iOS specific)
 
-##### Swift Backend
+### Swift Backend
 * [bit.ly/23vZDuU](http://bit.ly/23vZDuU) Building RESTful JSON apps in Swift
 
 ## Videos:
 
-##### Apple's WWDC
+### Apple's WWDC
 * [apple.co/1Yv4Xj7](http://apple.co/1Yv4Xj7) 2016: iOS 10, XCode 8, Swift 3
 * [apple.co/1Yv4ZHL](http://apple.co/1Yv4ZHL) 2015: iOS 9, XCode 7, Swift 2
 * [apple.co/1Yv5a64](http://apple.co/1Yv5a64) 2014: iOS 8, XCode 6, Swift 1
 * [iOS Development with Swift in Motion](https://www.manning.com/livevideo/ios-development-with-swift-lv) 
-##### Other
+
+### Other
 Most of this video list comes from [Stefan SUT on LinkedIn](https://www.linkedin.com/pulse/continuous-ios-learning-part-2-stefan-sut)
 * [vimeo.com/nsconf](https://vimeo.com/nsconf)
 * [pomo.tv](http://www.pomo.tv)
@@ -145,6 +145,7 @@ Most of this video list comes from [Stefan SUT on LinkedIn](https://www.linkedin
 * [dot conferences on youtube](https://www.youtube.com/channel/UCSRhwaM00ay0fasnsw6EXKA)
 
 ## Random:
+=======
 Things you might want to know and which will help your learning
 * [developer.apple.com/resources](https://developer.apple.com/resources)
 * [sanketfirodiya/ios-marketing-resources](https://github.com/sanketfirodiya/ios-marketing-resources)
@@ -157,6 +158,7 @@ Things you might want to know and which will help your learning
 * [git-tower.com/blog/xcode-cheat-sheet](https://www.git-tower.com/blog/xcode-cheat-sheet)
 
 ## Templates:
+=======
 Templates I have made to make my life easier while I was learning confusing topics or new frameworks
 * [Centered Scroll View](https://github.com/abbeyjackson/CenteredScrollViewTemplate)
 * [Announcement Slider with dots](https://github.com/abbeyjackson/AnnouncementSlider-CodeExample)
