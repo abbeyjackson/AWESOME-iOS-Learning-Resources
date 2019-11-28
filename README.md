@@ -129,7 +129,7 @@ Several blogs are tutorial based but because they do not have good organization 
 * [apple.co/1Yv4Xj7](http://apple.co/1Yv4Xj7) 2016: iOS 10, XCode 8, Swift 3
 * [apple.co/1Yv4ZHL](http://apple.co/1Yv4ZHL) 2015: iOS 9, XCode 7, Swift 2
 * [apple.co/1Yv5a64](http://apple.co/1Yv5a64) 2014: iOS 8, XCode 6, Swift 1
-
+* [iOS Development with Swift in Motion](https://www.manning.com/livevideo/ios-development-with-swift-lv) 
 ##### Other
 Most of this video list comes from [Stefan SUT on LinkedIn](https://www.linkedin.com/pulse/continuous-ios-learning-part-2-stefan-sut)
 * [vimeo.com/nsconf](https://vimeo.com/nsconf)
