@@ -145,7 +145,6 @@ Most of this video list comes from [Stefan SUT on LinkedIn](https://www.linkedin
 * [dot conferences on youtube](https://www.youtube.com/channel/UCSRhwaM00ay0fasnsw6EXKA)
 
 ## Random:
-=======
 Things you might want to know and which will help your learning
 * [developer.apple.com/resources](https://developer.apple.com/resources)
 * [sanketfirodiya/ios-marketing-resources](https://github.com/sanketfirodiya/ios-marketing-resources)
@@ -158,7 +157,6 @@ Things you might want to know and which will help your learning
 * [git-tower.com/blog/xcode-cheat-sheet](https://www.git-tower.com/blog/xcode-cheat-sheet)
 
 ## Templates:
-=======
 Templates I have made to make my life easier while I was learning confusing topics or new frameworks
 * [Centered Scroll View](https://github.com/abbeyjackson/CenteredScrollViewTemplate)
 * [Announcement Slider with dots](https://github.com/abbeyjackson/AnnouncementSlider-CodeExample)
