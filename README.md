@@ -1,3 +1,7 @@
+#### Please Note:
+#### I no longer have time to maintain this. If anyone wants to be added as a contributor so they can keep it up please reach out to me somehow or create an issue. The requirements are that these should not be blogs that just regurgitate what everyone else does. The resources added should be contributing unique thoughts and be written in a clear and concise manner. Also except in exceptional circumstances the resource should be free or have a majority of the useful content be free.
+-----------
+
 # iOS-Learning-Resources
 Big list of high-quality iOS learning resources including courses, blogs, newsletters, podcasts, and devloper communities
 
@@ -50,6 +54,12 @@ Several blogs are tutorial based but because they do not have good organization 
 * [devchat.tv/iphreaks](https://devchat.tv/iphreaks)
 * [releasenotes.tv](https://releasenotes.tv) (Independent app development)
 * [relay.fm/radar](https://www.relay.fm/radar) (Independent app development)
+* [Swift Unwrapped](https://spec.fm/podcasts/swift-unwrapped)
+* [Swift Over Coffee](https://anchor.fm/swiftovercoffee)
+* [Swift by Sundell](https://www.swiftbysundell.com/podcast) Answering Your Swift Questions
+* [iOS Dev Break](http://iosdevbreak.com)
+* [Inside iOS Dev](http://insideiosdev.com)
+* [The Swift Community Podcast](https://www.swiftcommunitypodcast.org) A podcast by the Swift community for the Swift community
 
 ## Weeklies:
 * [iosdevweekly.com](http://iosdevweekly.com)
@@ -57,6 +67,7 @@ Several blogs are tutorial based but because they do not have good organization 
 * [ioscomponentsweekly.com](http://ioscomponentsweekly.com)
 * [iosweekly.curated.co](http://iosweekly.curated.co)
 * [indieiosfocus.curated.co](https://indieiosfocus.curated.co)
+* [weeklycocoa.news](https://weeklycocoa.news)
 
 ## News:
 * [venturebeat.com/tag/ios](http://venturebeat.com/tag/ios)
@@ -74,7 +85,7 @@ Several blogs are tutorial based but because they do not have good organization 
 * [ios-developers.io](http://ios-developers.io)
 * [bit.ly/1LSHi2f](http://bit.ly/1LSHi2f) (G+ Community, 15K members)
 * [bit.ly/1Ved4B3](http://bit.ly/1Ved4B3) (G+ Community 3.5K members)
-* [bit.ly/1LbXz81](http://bit.ly/1LbXz81) (LinkedIn Group) 
+* [bit.ly/1LbXz81](http://bit.ly/1LbXz81) (LinkedIn Group)
 
 ## Course-like (lots of tutorials in an organized format):
 * [developer.apple.com/videos](https://developer.apple.com/videos)
@@ -103,22 +114,23 @@ Several blogs are tutorial based but because they do not have good organization 
 * [bit.ly/1QmOtEE](http://bit.ly/1QmOtEE) A Better Way to Learn Swift, from Thinkster
 * [bit.ly/1X6YmLh](http://bit.ly/1X6YmLh) Code Path's "Understanding Swift"
 
-##### Algorithms
+### Algorithms
 * [bit.ly/22gaZUN](http://bit.ly/22gaZUN) Swift Algorithms and Data Structures 
 * [bit.ly/1rsNUAW](http://bit.ly/1rsNUAW) Ray Wenderlich Swift Algorithm Club
 * [bit.ly/1rsNYka](http://bit.ly/1rsNYka) Algorithm Courses on Coursera (Not iOS specific)
 
-##### Swift Backend
+### Swift Backend
 * [bit.ly/23vZDuU](http://bit.ly/23vZDuU) Building RESTful JSON apps in Swift
 
 ## Videos:
 
-##### Apple's WWDC
+### Apple's WWDC
 * [apple.co/1Yv4Xj7](http://apple.co/1Yv4Xj7) 2016: iOS 10, XCode 8, Swift 3
 * [apple.co/1Yv4ZHL](http://apple.co/1Yv4ZHL) 2015: iOS 9, XCode 7, Swift 2
 * [apple.co/1Yv5a64](http://apple.co/1Yv5a64) 2014: iOS 8, XCode 6, Swift 1
+* [iOS Development with Swift in Motion](https://www.manning.com/livevideo/ios-development-with-swift-lv) 
 
-##### Other
+### Other
 Most of this video list comes from [Stefan SUT on LinkedIn](https://www.linkedin.com/pulse/continuous-ios-learning-part-2-stefan-sut)
 * [vimeo.com/nsconf](https://vimeo.com/nsconf)
 * [pomo.tv](http://www.pomo.tv)
@@ -143,7 +155,7 @@ Things you might want to know and which will help your learning
 * [maniacdev.com/xcode-plugins](https://maniacdev.com/xcode-plugins)
 * [XCode ShortcutKeys](http://apple.co/22gaUjW)
 * [git-tower.com/blog/xcode-cheat-sheet](https://www.git-tower.com/blog/xcode-cheat-sheet)
- 
+
 ## Templates:
 Templates I have made to make my life easier while I was learning confusing topics or new frameworks
 * [Centered Scroll View](https://github.com/abbeyjackson/CenteredScrollViewTemplate)
